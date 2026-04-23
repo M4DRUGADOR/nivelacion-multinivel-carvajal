@@ -1,0 +1,11 @@
+BUG A CORREGIR
+Encuentra y corrige los 2 errores:
+Java:
+ int vida = 100.5; // error: double vida = 100.5;
+ String nivel = 1; // error: int nivel = 1;
+
+BUG A CORREGIR
+Corrige el error en cada version:
+Java:
+ if (clase = "Guerrero") { ... } // error: if (clase == "Guerrero") { ... }
+
