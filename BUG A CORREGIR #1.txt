@@ -1,0 +1,9 @@
+BUG A CORREGIR
+Encuentra y corrige los 2 errores:
+
+Java:
+int vida = 100.5; // error: int
+String nivel = 1; // error: string
+Python:
+esta_vivo = 'true' # error: 'true'
+mana = int('cien') # error: 'cien'
